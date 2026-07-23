@@ -31,9 +31,4 @@ This project contains SQL solutions for the Week 2 assignment. It demonstrates h
 ## Author
 
 **Joyce Muthui**
-- `CASE WHEN`
-
-
-Author
-
-Joyce Muthui
+-
