@@ -1,40 +1,36 @@
-Name: Joyce Muthui
+# Week 2 SQL Assignment
 
-Date submitted:22/07/2026
+**Name:** Joyce Muthui
+**Date submitted:** 22/07/2026
+**Database:** PostgreSQL
 
-Database:PostgreSQL
+## Project Description
 
+This project contains SQL solutions for the Week 2 assignment. It demonstrates how to create a database, insert data, query data, use search operators, count records, and apply `CASE WHEN` statements.
 
-PROJECT DESCRIPTION
+## Project Structure
 
-This project contain SQL-solutions for the week 2 assignment. It demonistrates how to create a database, insert data, query data, use search operators, count and apply CASE WHEN statements.
+| File | Description |
+|------|-------------|
+| `section_a_ddl.sql` | Database and table creation |
+| `section_b_dml.sql` | Data insertion (DML) |
+| `section_c_query.sql` | SQL queries |
+| `section_d_operators.sql` | Range, Membership, and Search operators |
+| `section_e_count.sql` | `COUNT()` functions |
+| `section_f_case_when.sql` | `CASE WHEN` statements |
 
-Project Structure
+## Topics Covered
 
-Section_a_ddl.sql -Database and table creation.
+- Building the database
+- Filling the database
+- Querying the data
+- Range, Membership, and Search operators
+- `COUNT()`
+- `CASE WHEN`
 
-Section_b_dml.sql -Data insertion.(DML)
+## Author
 
-Section_c_query.sql -Sql queries.
-
-Section_d_operators.sql -Range, Meambership and Search Operators.
-
-Section_e_count.sql -COUNT()funtions
-
-Section_f_case_when.sql -CASE WHEN statements
-
-Topics Covered
-
--Building the database
-
--Filling the database
-
--Querying the data
-
--Range, Meambership and Search Operators
-
--COUNT()
-
+**Joyce Muthui**
 -CASE WHEN
 
 
